@@ -9,10 +9,12 @@ The traditional railway ticket booking process is often cumbersome, leading to i
 
 
 GO-RAIL is a railway reservation platform designed with the mission of providing efficient, convenient, and accessible travel solutions to all passengers. Whether it's a daily commute or a long-distance journey, GO-RAIL aims to make every train trip better, safer, and happier for everyone.
+
 GO-RAIL is a Java-based railway reservation platform designed to provide convenient and accessible train ticket booking services . The platform aims to streamline the process of reserving train tickets for passengers while ensuring fair access to transportation facilities for all.
 
 
 Features:
+
 Admin Module:
 
 Admin Login: Administrators can securely log in to the system using their credentials.
