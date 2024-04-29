@@ -14,17 +14,29 @@ GO-RAIL is a Java-based railway reservation platform designed to provide conveni
 
 Features:
 Admin Module:
+
 Admin Login: Administrators can securely log in to the system using their credentials.
+
 Admin Create Account: New administrators can create accounts to access system functionalities.
+
 Admin Menu: Once logged in, administrators can perform various tasks such as adding trains, viewing all trains, updating seat availability, and managing feedback and complaints.
+
 User Module:
+
 User Login: Users can log in to the system using their credentials.
+
 User Create Account: New users can create accounts to book tickets and provide feedback.
+
 Search Train: Users can search for trains based on source and destination stations.
+
 Book Tickets: Users can book tickets for available trains, select berth types, order food, and proceed to payment.
+
 Show My Bookings: Users can view their booked tickets.
+
 Train Kitchen: Users can view the menu of available food items in the train kitchen.
+
 My Journey: Users can view their current journey details, including the remaining distance to the destination.
+
 Customer Helpline and Feedback: Users can access customer helpline services, submit complaints, and provide feedback
 
 Data Structures Used:
