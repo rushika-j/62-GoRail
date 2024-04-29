@@ -40,40 +40,58 @@ My Journey: Users can view their current journey details, including the remainin
 Customer Helpline and Feedback: Users can access customer helpline services, submit complaints, and provide feedback
 
 Data Structures Used:
+
 HashMap:
 Usage: Used extensively throughout the project for efficient storage and retrieval of key-value pairs.
+
 Where:
 Storing user information and authentication credentials.
 Maintaining train details such as train number, name, source, destination, and seat availability.
 Recording distances between stations for train routes.
 Storing feedback and complaints provided by users.
+
 Why: HashMap provides constant-time performance for basic operations such as get and put, making it suitable for fast data access and manipulation.
+
 ArrayList:
 Usage: Used to store dynamic lists of elements.
+
 Where:
 Maintaining lists of trains and bookings.
+
 Managing food menu items and selected food items during ticket booking.
 Why: ArrayList offers dynamic resizing and efficient random access, making it suitable for scenarios where the size of the data collection may vary.
+
 Set (HashSet):
 Usage: Utilized to store unique elements with no duplicates.
+
 Where:
 Keeping track of visited stations during Dijkstra's algorithm implementation.
 Why: HashSet ensures that each station is visited only once during pathfinding algorithms, preventing redundant computations and optimizing performance.
 PriorityQueue:
+
 Usage: Used to implement a priority queue data structure.
+
 Where:
 Ordering food menu items based on their ratings in the train kitchen feature.
+
 Why: PriorityQueue maintains elements in a sorted order based on their natural ordering or custom comparator, making it suitable for scenarios where elements need to be processed in a specific order of priority.
+
 Map.Entry:
 Usage: Represents a key-value pair in a map.
+
 Where:
 Used in conjunction with HashMap to iterate over key-value pairs during various operations such as Dijkstra's algorithm and train kitchen menu sorting.
+
 Why: Map.Entry allows convenient access to both keys and values stored in a map, facilitating efficient iteration and manipulation of map entries.
 
 
 Why Data Structures:
+
 Efficiency: Chosen data structures are optimized for efficient storage, retrieval, and manipulation of data, ensuring optimal performance of the railway reservation platform.
+
 Functionality: Each data structure is selected based on its suitability for specific functionalities and requirements within the project, enabling smooth execution of operations such as user authentication, ticket booking, pathfinding, and menu sorting.
+
 Flexibility: The dynamic nature of ArrayList and HashSet allows for easy addition and removal of elements, accommodating changes in data size and content over time.
+
 Maintainability: By leveraging appropriate data structures, the project maintains clean and organized code, enhancing readability and ease of maintenance for future updates and modifications.
 
