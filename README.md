@@ -2,6 +2,11 @@
 
 Demo video link: https://drive.google.com/file/d/1kRI1BcsElpZ6ytrA8IPmTALXEYZHF6mZ/view?usp=sharing
 
+Report 1 : https://docs.google.com/document/d/1Hr-PcZaEJkBstPJIHcLmxxmPvjghgDzS/edit?usp=sharing&ouid=109584937389394148034&rtpof=true&sd=true
+
+report 2:  https://docs.google.com/document/d/1AZOBMFDG9K43l1i3b5HaHywjmVF3y5Vs/edit?usp=sharing&ouid=109584937389394148034&rtpof=true&sd=true
+
+
 Project Title: GO-RAIL -  Railway Reservation Platform
 "From the moment you step on board, we're here to elevate your train journey to new heights of happiness and satisfaction. Let's make every mile better together."
 
